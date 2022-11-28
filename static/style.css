@@ -1,0 +1,38 @@
+
+nav {
+    background: gray;
+    height: 5vh;
+    padding: 2vw;
+    display: flex;
+    gap: 5vw;
+    text-align: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color:  white;
+
+}
+
+a:hover {
+    opacity: 0.2;
+}
+
+body {
+    background-color: bisque;
+}
+
+main {
+    min-height: 60vh;
+    text-align: center;
+    justify-content: center;
+}
+
+footer {
+    background: gray;
+    padding: 2vw;
+    text-align: center;
+ 
+}
+
